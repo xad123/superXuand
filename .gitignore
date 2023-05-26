@@ -15,3 +15,4 @@ yarn-error.log
 /.vscode
 /web_config
 web.config
+/public/web_config/
